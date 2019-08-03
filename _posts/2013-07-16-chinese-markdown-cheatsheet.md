@@ -2,9 +2,9 @@
 layout: post
 title: Markdown语法简介
 date: 2013-07-16
-Author: Shengbin 
+Author: Shengbin
 tags: [sample, markdown]
-comments: true
+comments: false
 toc: true
 ---
 
